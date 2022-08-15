@@ -1,6 +1,6 @@
 # Level 6 -> 7
 
-### Challenge Link: [Level 6](http://overthewire.org/wargames/bandit/bandit6.html)
+### Challenge Link: [Level 6](http://overthewire.org/wargames/bandit/bandit7.html)
 
 ### Challenge Text
 

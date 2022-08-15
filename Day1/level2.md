@@ -1,6 +1,6 @@
 # Level 2 -> 3
 
-### Challenge Link: [Level 2](http://overthewire.org/wargames/bandit/bandit2.html)
+### Challenge Link: [Level 3](http://overthewire.org/wargames/bandit/bandit3.html)
 
 ### Challenge Text
 
