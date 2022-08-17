@@ -19,4 +19,4 @@ We can use [`find`](https://man7.org/linux/man-pages/man1/find.1.html) command t
 I have used following command to locate:
 ```find . -type f -size 1033c ! -executable```
 
-![bandit1 flag](media/bandit5_flag.png)
+![bandit5 flag](media/bandit5_flag.png)

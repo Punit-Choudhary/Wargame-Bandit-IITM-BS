@@ -1,6 +1,6 @@
 # Level 6 -> 7
 
-### Challenge Link: [Level 6](http://overthewire.org/wargames/bandit/bandit7.html)
+### Challenge Link: [Level 7](http://overthewire.org/wargames/bandit/bandit7.html)
 
 ### Challenge Text
 
@@ -27,4 +27,4 @@ I have used following command to locate:<br>
 `-size` : flag to mention size of file<br>
 `2>/dev/null` : redirect `stderr` to a black hole 😅
 
-![bandit1 flag](media/bandit6_flag.png)
+![bandit6 flag](media/bandit6_flag.png)

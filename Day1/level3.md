@@ -14,4 +14,4 @@ We can use `ls -al` to list out all the files including hidden files.
 There we can see a file named `.hidden`<br>
 `cat .hidden` will show password.
 
-![bandit1 flag](media/bandit3_flag.png)
+![bandit3 flag](media/bandit3_flag.png)

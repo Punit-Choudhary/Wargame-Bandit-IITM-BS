@@ -11,4 +11,4 @@ To read files with spaces in their name we have to put the filename in quotation
 
 `cat "spaces in this filename"` and `cat spaces\ in\ this\ filename` will do the job
 
-![bandit1 flag](media/bandit2_flag.png)
+![bandit2 flag](media/bandit2_flag.png)

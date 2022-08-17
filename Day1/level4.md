@@ -13,4 +13,4 @@ Challenge text says that password is in one of the `human-readable` file.<br>
 We can use [file](https://man7.org/linux/man-pages/man1/file.1.html) command to find file format.
 I've used wildcard to automate the boring stuff, we can see `-file07` is the only file contains `ASCII text` that is human-readable.
 
-![bandit1 flag](media/bandit4_flag.png)
+![bandit4 flag](media/bandit4_flag.png)
