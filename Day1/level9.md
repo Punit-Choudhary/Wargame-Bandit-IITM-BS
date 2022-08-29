@@ -11,7 +11,7 @@ There is a file `data.txt` in the home directory of bandit9.
 
 It is a binary file containing some strings, according to the challenge text password is one of the human-readable strings that is preceded by several '=' characters.
 
-We can use [`strings`]() command to extract plain text out of binary mess.
+We can use [`strings`](https://man7.org/linux/man-pages/man1/strings.1.html) command to extract plain text out of binary mess.
 
 There are still many strings, we can further filter using `grep`.
 
